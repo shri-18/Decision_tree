@@ -12,21 +12,8 @@ This repository contains an implementation of a Decision Tree Classifier in Pyth
   
 - **Visualization**: The Decision Tree can be visualized using graphviz to understand its structure and decision-making process.
 
-## Usage
 
-1. Clone the repository:
-
-    ```bash
-    git clone https://github.com/username/decision-tree.git
-    ```
-
-2. Install the required dependencies:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. Import the `DecisionTreeClassifier` class and use it in your Python code:
+2. Import the `DecisionTreeClassifier` class and use it in your Python code:
 
     ```python
     from decision_tree import DecisionTreeClassifier
